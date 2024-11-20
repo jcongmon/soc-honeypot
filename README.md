@@ -33,7 +33,9 @@ Windows RDP/SMB Authentication Failures
 ## Metrics Before Hardening / Security Controls
 
 The following table shows the metrics measured the insecure environment for 24 hours:
+
 Start Time: 2024-11-09 16:37:01
+
 Stop Time: 2024-11-10 16:37:01
 
 | Metric                   | Count
@@ -51,7 +53,9 @@ Stop Time: 2024-11-10 16:37:01
 ## Metrics After Hardening / Security Controls
 
 The following table shows the metrics measured in the environment for another 24 hours, after applied security controls:
+
 Start Time: 2024-11-17 16:16:39
+
 Stop Time: 2024-11-18 16:16:39
 
 | Metric                   | Count
